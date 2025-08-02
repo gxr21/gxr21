@@ -13,8 +13,9 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔐 [securitypackage](https://github.com/gxr21/securitypackage) | JavaScript tools for basic security validation |
-| 🧠 [OnlineAttendanceAI](https://github.com/gxr21/OnlineAttendanceAI) | AI-powered student attendance tracking system |
+| 🔐 [securitypackage](https://github.com/gxr21/securitypackege.git) | JavaScript tools for basic security validation |
+| 🧠 [OnlineAttendance](https://github.com/gxr21/OnlineAttSys.git) |  student attendance tracking system |
+| 🎓 [PhpWebsiteLearn](https://github.com/gxr21/PHP.git) | Website for learn php programming |
 
 ---
 
@@ -25,13 +26,13 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ---
 
 ### 📫 Contact Me
 
-- 📧 Email: ali.developer@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: alijalal200311@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/ali-jalal-336544310)
 - 🌐 Portfolio: [your-website.com](https://your-website.com)
 
 ---
