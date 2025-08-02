@@ -37,7 +37,7 @@
 ### 📫 Contact Me
 
 - 📧 Email: alijalal200311@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/ali-jalal-336544310)
+- 💼 LinkedIn: [linkedin.com/in/MYLinkedIn](https://linkedin.com/in/ali-jalal-336544310)
 - 🌐 Portfolio: [your-website.com](https://your-website.com)
 
 ---
