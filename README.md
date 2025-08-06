@@ -47,7 +47,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gxr21&show_icons=true&theme=tokyonight" alt="gxr21's GitHub stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=gxr21&show_icons=true&theme=tokyonight&count_private=true" alt="stats" />
 </p>
-
 > 🌱 Always learning. Always building.
