@@ -47,6 +47,6 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-woou-lioq0bfup-alis-projects-f48813be.vercel.app//api?username=gxr21&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-nrj5x2gzq-alis-projects-f48813be.vercel.app//api?username=gxr21&show_icons=true&theme=tokyonight" />
 </p>
 > 🌱 Always learning. Always building.
