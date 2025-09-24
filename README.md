@@ -132,7 +132,6 @@ CSS          30 mins         █░░░░░░░░░░░░░░░░
 ---
 
 <!-- Analytics Tracking Pixel (Hidden) -->
-<img src="https://analytics.google.com/collect?v=1&tid=GA_TRACKING_ID&cid=555&t=pageview&dp=%2Fgithub-profile&dt=GitHub%20Profile%20View" style="display:none;" />
 
 <!-- UTM Parameter Guide for Reference -->
 <!--
