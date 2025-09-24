@@ -126,8 +126,8 @@ CSS          30 mins         █░░░░░░░░░░░░░░░░
 <!--
 UTM Parameters Added:
 - utm_source=github_profile (traffic from GitHub profile)
-- utm_medium=readme|badge|pin|button (type of link)
-- utm_campaign=contact|social|portfolio|projects|featured (campaign category)
+- utm_source=instagram&utm_medium=social&utm_campaign=bio_link
+- utm_source=linkedin&utm_medium=social&utm_campaign=profile_post
 
 These will help track:
 1. Which links get most clicks
