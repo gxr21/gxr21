@@ -21,16 +21,6 @@
   
 <!-- Profile Views Counter with UTM tracking -->
 <img src="https://komarev.com/ghpvc/?username=gxr21&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats-5ov6qcby5-alis-projects-f48813be.vercel.app/api?username=gxr21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gxr21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats-5ov6qcby5-alis-projects-f48813be.vercel.app/api/top-langs/?username=gxr21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
 </div>
 
 ---
@@ -116,18 +106,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/gxr21?label=Follow&style=social)](https://github.com/gxr21?tab=followers)
 
 </div>
-
----
-
-## 🎯 Current Focus
-
-- 🔭 I'm currently working on **Advanced Web Applications**
-- 🌱 I'm currently learning **React Advanced Patterns** and **C++ System Programming**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 🤔 I'm looking for help with **DevOps and Cloud Technologies**
-- 💬 Ask me about **JavaScript, React, Flask, and C++**
-- ⚡ Fun fact: **I love solving complex algorithms and building user-friendly interfaces**
-
 ---
 
 ## 📈 Weekly Development Breakdown
