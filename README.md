@@ -32,7 +32,7 @@
 | 🎯 Project | 📝 Description | 🛠️ Tech | 🔗 Links | 📊 Analytics |
 |-----------|---------------|---------|---------|-------------|
 | 🔐 **Security Package** | JavaScript tools for basic security validation | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript) | [GitHub](https://github.com/gxr21/securitypackege.git?utm_source=github_profile&utm_medium=readme&utm_campaign=projects) | [![](https://img.shields.io/github/stars/gxr21/securitypackege)](https://github.com/gxr21/securitypackege) |
-| 🧠 **Online Attendance** | Student attendance tracking system | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) | [GitHub](https://github.com/gxr21/OnlineAttSys.git?utm_source=github_profile&utm_medium=readme&utm_campaign=projects) | [![](https://img.shields.io/github/stars/gxr21/OnlineAttSys)](https://github.com/gxr21/OnlineAttSys) |
+| 🧠 **Online Attendance** | Student attendance tracking system | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql) | [GitHub](https://github.com/gxr21/OnlineAttSys.git?utm_source=github_profile&utm_medium=readme&utm_campaign=projects) | [![](https://img.shields.io/github/stars/gxr21/OnlineAttSys)](https://github.com/gxr21/OnlineAttSys) |
 | 🎓 **PHP Learning Website** | Interactive PHP programming tutorial platform | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php) | [GitHub](https://github.com/gxr21/PHP.git?utm_source=github_profile&utm_medium=readme&utm_campaign=projects) | [![](https://img.shields.io/github/stars/gxr21/PHP)](https://github.com/gxr21/PHP) |
 
 </div>
@@ -118,26 +118,11 @@ C++          1 hr 20 mins    ██░░░░░░░░░░░░░░░
 CSS          30 mins         █░░░░░░░░░░░░░░░░    3.9%
 ```
 <!--END_SECTION:waka-->
-
----
-
-## 🌟 Featured Repositories
-
-<div align="center">
-  
-[![ReadMe Card](https://github-readme-stats-5ov6qcby5-alis-projects-f48813be.vercel.app/api/pin/?username=gxr21&repo=securitypackege&theme=tokyonight&hide_border=true)](https://github.com/gxr21/securitypackege?utm_source=github_profile&utm_medium=pin&utm_campaign=featured)
-[![ReadMe Card](https://github-readme-stats-5ov6qcby5-alis-projects-f48813be.vercel.app/api/pin/?username=gxr21&repo=OnlineAttSys&theme=tokyonight&hide_border=true)](https://github.com/gxr21/OnlineAttSys?utm_source=github_profile&utm_medium=pin&utm_campaign=featured)
-
-</div>
-
 ---
 
 <div align="center">
   
 ### 🌱 *"Always learning. Always building. Always improving."*
-
-<!-- Visitor Badge with enhanced tracking -->
-![Visitor Count](https://profile-counter.glitch.me/gxr21/count.svg)
 
 <!-- GitHub Profile Summary -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gxr21&theme=tokyonight" alt="Profile Summary">
